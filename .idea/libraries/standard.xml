@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="standard">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/standard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../development_Library/commons-fileupload-1.2.2/lib/commons-fileupload-1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../development_Library/commons-io-2.0.1/commons-io-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../development_Library/json及依赖的jar包/jackson/jackson-all-1.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../development_Library/分词/ansj_seg-5.0.1-all-in-one.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
